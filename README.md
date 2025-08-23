@@ -36,13 +36,17 @@ The goal was to simulate a real-world environment where attackers target exposed
 
 - The dashboard shows city, country, and frequency of attacks, providing real-time threat visibility.
 
-<h3>Before (initial setup, no attacks yet):</h3>
+<h3>Early Stage (1 hour post setup):</h3>
+
+- The honeypot records minimal but noticeable attack traffic
 
 <p align="center">
   <img src="map_before.png" width="600">
 </p>
 
-<h3>After (hours later, visible attacks from multiple regions):</h3>
+<h3>Later Stage (6 hours post setup):</h3>
+
+- Heavy malicious traffic observed compared to the first hour
 
 <p align="center">
   <img src="map_after.png" width="600">
